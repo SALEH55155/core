@@ -1,0 +1,25 @@
+{
+    "releases": [
+        {
+            "channel-version": "10.0",
+            "latest-release-date": "2025-02-25",
+            "security": false,
+            "support-phase": "preview",
+            "release-info": "https://builds.dotnet.microsoft.com/dotnet/release-metadata/10.0/release-info.json"
+        },
+        {
+            "channel-version": "9.0",
+            "latest-release-date": "2025-02-11",
+            "security": false,
+            "support-phase": "active",
+            "release-info": "https://builds.dotnet.microsoft.com/dotnet/release-metadata/9.0/release-info.json"
+        },
+        {
+            "channel-version": "8.0",
+            "latest-release-date": "2025-02-11",
+            "security": false,
+            "support-phase": "active",
+            "release-info": "https://builds.dotnet.microsoft.com/dotnet/release-metadata/8.0/release-info.json"
+        }
+    ]
+}
